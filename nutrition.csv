@@ -1,0 +1,712 @@
+nutri_type,f_name,Nutrient Value (g)
+Protein,Apple,0.546
+Carbohydrates,Apple,25.116
+Fat,Apple,0.364
+Fiber,Apple,4.368
+Sugar,Apple,18.928
+Vitamin A,Apple,0
+Vitamin C,Apple,0.0153
+Calcium,Apple,0.02
+Iron,Apple,0.0002
+Protein,Banana,1.298
+Carbohydrates,Banana,26.904
+Fat,Banana,0.354
+Fiber,Banana,3.068
+Sugar,Banana,14.396
+Vitamin A,Banana,0
+Vitamin C,Banana,0.0103
+Calcium,Banana,0.0059
+Iron,Banana,0.0004
+Protein,Orange,1.179
+Carbohydrates,Orange,15.458
+Fat,Orange,0.131
+Fiber,Orange,3.144
+Sugar,Orange,12.314
+Vitamin A,Orange,0
+Vitamin C,Orange,0.0697
+Calcium,Orange,0.0524
+Iron,Orange,0.0001
+Protein,Strawberries,1.216
+Carbohydrates,Strawberries,11.704
+Fat,Strawberries,0.456
+Fiber,Strawberries,3.04
+Sugar,Strawberries,7.448
+Vitamin A,Strawberries,0
+Vitamin C,Strawberries,0.0894
+Calcium,Strawberries,0.0243
+Iron,Strawberries,0.0006
+Protein,Blueberries,1.036
+Carbohydrates,Blueberries,21.46
+Fat,Blueberries,0.444
+Fiber,Blueberries,3.552
+Sugar,Blueberries,14.8
+Vitamin A,Blueberries,0
+Vitamin C,Blueberries,0.0144
+Calcium,Blueberries,0.0089
+Iron,Blueberries,0.0004
+Protein,Grapes,0.906
+Carbohydrates,Grapes,27.331
+Fat,Grapes,0.302
+Fiber,Grapes,1.359
+Sugar,Grapes,23.405
+Vitamin A,Grapes,0
+Vitamin C,Grapes,0.0072
+Calcium,Grapes,0.0151
+Iron,Grapes,0.0005
+Protein,Watermelon,0.912
+Carbohydrates,Watermelon,12.16
+Fat,Watermelon,0.304
+Fiber,Watermelon,0.608
+Sugar,Watermelon,9.424
+Vitamin A,Watermelon,0.0001
+Vitamin C,Watermelon,0.0123
+Calcium,Watermelon,0.0167
+Iron,Watermelon,0.0003
+Protein,Mango,1.32
+Carbohydrates,Mango,24.75
+Fat,Mango,0.66
+Fiber,Mango,2.64
+Sugar,Mango,24.42
+Vitamin A,Mango,0.0001
+Vitamin C,Mango,0.0601
+Calcium,Mango,0.0181
+Iron,Mango,0.0003
+Protein,Pineapple,0.825
+Carbohydrates,Pineapple,21.615
+Fat,Pineapple,0.165
+Fiber,Pineapple,2.31
+Sugar,Pineapple,16.335
+Vitamin A,Pineapple,0
+Vitamin C,Pineapple,0.0789
+Calcium,Pineapple,0.0215
+Iron,Pineapple,0.0005
+Protein,Peach,1.35
+Carbohydrates,Peach,14.25
+Fat,Peach,0.45
+Fiber,Peach,2.25
+Sugar,Peach,12.6
+Vitamin A,Peach,0
+Vitamin C,Peach,0.0099
+Calcium,Peach,0.009
+Iron,Peach,0.0004
+Protein,Broccoli,2.548
+Carbohydrates,Broccoli,6.006
+Fat,Broccoli,0.364
+Fiber,Broccoli,2.366
+Sugar,Broccoli,1.547
+Vitamin A,Broccoli,0.0001
+Vitamin C,Broccoli,0.0812
+Calcium,Broccoli,0.0428
+Iron,Broccoli,0.0006
+Protein,Carrots,0.549
+Carbohydrates,Carrots,5.856
+Fat,Carrots,0.122
+Fiber,Carrots,1.708
+Sugar,Carrots,2.867
+Vitamin A,Carrots,0.0005
+Vitamin C,Carrots,0.0036
+Calcium,Carrots,0.0201
+Iron,Carrots,0.0002
+Protein,Spinach,0.87
+Carbohydrates,Spinach,1.08
+Fat,Spinach,0.12
+Fiber,Spinach,0.66
+Sugar,Spinach,0.12
+Vitamin A,Spinach,0.0001
+Vitamin C,Spinach,0.0084
+Calcium,Spinach,0.0297
+Iron,Spinach,0.0008
+Protein,Tomato,1.107
+Carbohydrates,Tomato,4.797
+Fat,Tomato,0.246
+Fiber,Tomato,1.476
+Sugar,Tomato,3.198
+Vitamin A,Tomato,0.0001
+Vitamin C,Tomato,0.0169
+Calcium,Tomato,0.0123
+Iron,Tomato,0.0004
+Protein,Cucumber,0.364
+Carbohydrates,Cucumber,1.872
+Fat,Cucumber,0.052
+Fiber,Cucumber,0.26
+Sugar,Cucumber,0.884
+Vitamin A,Cucumber,0
+Vitamin C,Cucumber,0.0015
+Calcium,Cucumber,0.0083
+Iron,Cucumber,0.0002
+Protein,Bell Pepper,1.071
+Carbohydrates,Bell Pepper,7.14
+Fat,Bell Pepper,0.357
+Fiber,Bell Pepper,2.499
+Sugar,Bell Pepper,4.998
+Vitamin A,Bell Pepper,0
+Vitamin C,Bell Pepper,0.152
+Calcium,Bell Pepper,0.0119
+Iron,Bell Pepper,0.0005
+Protein,Lettuce,0.658
+Carbohydrates,Lettuce,1.363
+Fat,Lettuce,0.094
+Fiber,Lettuce,0.611
+Sugar,Lettuce,0.376
+Vitamin A,Lettuce,0.0001
+Vitamin C,Lettuce,0.0043
+Calcium,Lettuce,0.0169
+Iron,Lettuce,0.0003
+Protein,Cauliflower,2.033
+Carbohydrates,Cauliflower,5.243
+Fat,Cauliflower,0.321
+Fiber,Cauliflower,2.14
+Sugar,Cauliflower,2.033
+Vitamin A,Cauliflower,0
+Vitamin C,Cauliflower,0.0516
+Calcium,Cauliflower,0.0235
+Iron,Cauliflower,0.0004
+Protein,Zucchini,2.352
+Carbohydrates,Zucchini,6.076
+Fat,Zucchini,0.588
+Fiber,Zucchini,1.96
+Sugar,Zucchini,4.9
+Vitamin A,Zucchini,0.0001
+Vitamin C,Zucchini,0.0351
+Calcium,Zucchini,0.0314
+Iron,Zucchini,0.0008
+Protein,Green Beans,1.8
+Carbohydrates,Green Beans,7.1
+Fat,Green Beans,0.1
+Fiber,Green Beans,3.4
+Sugar,Green Beans,3.3
+Vitamin A,Green Beans,0
+Vitamin C,Green Beans,0.0122
+Calcium,Green Beans,0.037
+Iron,Green Beans,0.001
+Protein,White Rice,4.266
+Carbohydrates,White Rice,44.556
+Fat,White Rice,0.474
+Fiber,White Rice,0.632
+Sugar,White Rice,0.158
+Vitamin A,White Rice,0
+Vitamin C,White Rice,0
+Calcium,White Rice,0.0158
+Iron,White Rice,0.0003
+Protein,Brown Rice,5.07
+Carbohydrates,Brown Rice,44.85
+Fat,Brown Rice,1.95
+Fiber,Brown Rice,3.51
+Sugar,Brown Rice,0.78
+Vitamin A,Brown Rice,0
+Vitamin C,Brown Rice,0
+Calcium,Brown Rice,0.0097
+Iron,Brown Rice,0.0008
+Protein,Pasta,7
+Carbohydrates,Pasta,35
+Fat,Pasta,1.54
+Fiber,Pasta,2.24
+Sugar,Pasta,0.84
+Vitamin A,Pasta,0
+Vitamin C,Pasta,0
+Calcium,Pasta,0.0098
+Iron,Pasta,0.0013
+Protein,Whole Wheat Bread,2.24
+Carbohydrates,Whole Wheat Bread,13.44
+Fat,Whole Wheat Bread,0.98
+Fiber,Whole Wheat Bread,1.904
+Sugar,Whole Wheat Bread,0.504
+Vitamin A,Whole Wheat Bread,0
+Vitamin C,Whole Wheat Bread,0
+Calcium,Whole Wheat Bread,0.028
+Iron,Whole Wheat Bread,0.0008
+Protein,White Bread,1.75
+Carbohydrates,White Bread,12.25
+Fat,White Bread,0.75
+Fiber,White Bread,0.6
+Sugar,White Bread,1.25
+Vitamin A,White Bread,0
+Vitamin C,White Bread,0
+Calcium,White Bread,0.03
+Iron,White Bread,0.0008
+Protein,Oatmeal,5.616
+Carbohydrates,Oatmeal,28.08
+Fat,Oatmeal,4.446
+Fiber,Oatmeal,4.68
+Sugar,Oatmeal,0.468
+Vitamin A,Oatmeal,0
+Vitamin C,Oatmeal,0
+Calcium,Oatmeal,0.0234
+Iron,Oatmeal,0.0021
+Protein,Quinoa,8.14
+Carbohydrates,Quinoa,39.405
+Fat,Quinoa,3.515
+Fiber,Quinoa,5.18
+Sugar,Quinoa,1.665
+Vitamin A,Quinoa,0
+Vitamin C,Quinoa,0
+Calcium,Quinoa,0.0314
+Iron,Quinoa,0.0028
+Protein,Bagel,8.01
+Carbohydrates,Bagel,42.72
+Fat,Bagel,1.246
+Fiber,Bagel,1.78
+Sugar,Bagel,4.806
+Vitamin A,Bagel,0
+Vitamin C,Bagel,0
+Calcium,Bagel,0.1068
+Iron,Bagel,0.0028
+Protein,Tortilla,2.94
+Carbohydrates,Tortilla,19.6
+Fat,Tortilla,2.94
+Fiber,Tortilla,0.98
+Sugar,Tortilla,0.49
+Vitamin A,Tortilla,0
+Vitamin C,Tortilla,0
+Calcium,Tortilla,0.0735
+Iron,Tortilla,0.001
+Protein,Crackers,1.12
+Carbohydrates,Crackers,9.92
+Fat,Crackers,2.88
+Fiber,Crackers,0.48
+Sugar,Crackers,0.48
+Vitamin A,Crackers,0
+Vitamin C,Crackers,0
+Calcium,Crackers,0.0032
+Iron,Crackers,0.0002
+Protein,Chicken Breast,26.35
+Carbohydrates,Chicken Breast,0
+Fat,Chicken Breast,3.06
+Fiber,Chicken Breast,0
+Sugar,Chicken Breast,0
+Vitamin A,Chicken Breast,0
+Vitamin C,Chicken Breast,0
+Calcium,Chicken Breast,0.0093
+Iron,Chicken Breast,0.0006
+Protein,Ground Beef,22.1
+Carbohydrates,Ground Beef,0
+Fat,Ground Beef,17
+Fiber,Ground Beef,0
+Sugar,Ground Beef,0
+Vitamin A,Ground Beef,0
+Vitamin C,Ground Beef,0
+Calcium,Ground Beef,0.0153
+Iron,Ground Beef,0.0018
+Protein,Salmon,21.25
+Carbohydrates,Salmon,0
+Fat,Salmon,11.05
+Fiber,Salmon,0
+Sugar,Salmon,0
+Vitamin A,Salmon,0
+Vitamin C,Salmon,0
+Calcium,Salmon,0.0077
+Iron,Salmon,0.0006
+Protein,Tuna,24.65
+Carbohydrates,Tuna,0
+Fat,Tuna,0.85
+Fiber,Tuna,0
+Sugar,Tuna,0
+Vitamin A,Tuna,0
+Vitamin C,Tuna,0
+Calcium,Tuna,0.0085
+Iron,Tuna,0.0008
+Protein,Eggs,6.3
+Carbohydrates,Eggs,0.55
+Fat,Eggs,5.3
+Fiber,Eggs,0
+Sugar,Eggs,0.55
+Vitamin A,Eggs,0.0001
+Vitamin C,Eggs,0
+Calcium,Eggs,0.025
+Iron,Eggs,0.0006
+Protein,Turkey Breast,24.65
+Carbohydrates,Turkey Breast,0
+Fat,Turkey Breast,0.85
+Fiber,Turkey Breast,0
+Sugar,Turkey Breast,0
+Vitamin A,Turkey Breast,0
+Vitamin C,Turkey Breast,0
+Calcium,Turkey Breast,0.0119
+Iron,Turkey Breast,0.0009
+Protein,Pork Chop,22.1
+Carbohydrates,Pork Chop,0
+Fat,Pork Chop,11.9
+Fiber,Pork Chop,0
+Sugar,Pork Chop,0
+Vitamin A,Pork Chop,0
+Vitamin C,Pork Chop,0.0003
+Calcium,Pork Chop,0.0136
+Iron,Pork Chop,0.0006
+Protein,Shrimp,20.4
+Carbohydrates,Shrimp,0.17
+Fat,Shrimp,0.255
+Fiber,Shrimp,0
+Sugar,Shrimp,0
+Vitamin A,Shrimp,0
+Vitamin C,Shrimp,0.0017
+Calcium,Shrimp,0.0595
+Iron,Shrimp,0.0008
+Protein,Tofu,10.206
+Carbohydrates,Tofu,2.394
+Fat,Tofu,6.048
+Fiber,Tofu,0.378
+Sugar,Tofu,0.378
+Vitamin A,Tofu,0
+Vitamin C,Tofu,0
+Calcium,Tofu,0.441
+Iron,Tofu,0.0068
+Protein,Black Beans,15.308
+Carbohydrates,Black Beans,40.764
+Fat,Black Beans,1.548
+Fiber,Black Beans,14.964
+Sugar,Black Beans,0.516
+Vitamin A,Black Beans,0
+Vitamin C,Black Beans,0
+Calcium,Black Beans,0.0602
+Iron,Black Beans,0.0036
+Protein,Milk (2%),8.296
+Carbohydrates,Milk (2%),11.712
+Fat,Milk (2%),4.88
+Fiber,Milk (2%),0
+Sugar,Milk (2%),12.2
+Vitamin A,Milk (2%),0.0001
+Vitamin C,Milk (2%),0
+Calcium,Milk (2%),0.2928
+Iron,Milk (2%),0
+Protein,Cheddar Cheese,7
+Carbohydrates,Cheddar Cheese,0.364
+Fat,Cheddar Cheese,9.24
+Fiber,Cheddar Cheese,0
+Sugar,Cheddar Cheese,0.14
+Vitamin A,Cheddar Cheese,0.0001
+Vitamin C,Cheddar Cheese,0
+Calcium,Cheddar Cheese,0.2016
+Iron,Cheddar Cheese,0.0001
+Protein,Yogurt (Plain),13.475
+Carbohydrates,Yogurt (Plain),17.15
+Fat,Yogurt (Plain),8.82
+Fiber,Yogurt (Plain),0
+Sugar,Yogurt (Plain),17.15
+Vitamin A,Yogurt (Plain),0
+Vitamin C,Yogurt (Plain),0.0025
+Calcium,Yogurt (Plain),0.3675
+Iron,Yogurt (Plain),0.0002
+Protein,Greek Yogurt,20
+Carbohydrates,Greek Yogurt,7
+Fat,Greek Yogurt,0.8
+Fiber,Greek Yogurt,0
+Sugar,Greek Yogurt,7
+Vitamin A,Greek Yogurt,0
+Vitamin C,Greek Yogurt,0
+Calcium,Greek Yogurt,0.3
+Iron,Greek Yogurt,0.0002
+Protein,Mozzarella Cheese,6.16
+Carbohydrates,Mozzarella Cheese,0.616
+Fat,Mozzarella Cheese,6.16
+Fiber,Mozzarella Cheese,0
+Sugar,Mozzarella Cheese,0.28
+Vitamin A,Mozzarella Cheese,0.0001
+Vitamin C,Mozzarella Cheese,0
+Calcium,Mozzarella Cheese,0.168
+Iron,Mozzarella Cheese,0.0001
+Protein,Cottage Cheese,25.086
+Carbohydrates,Cottage Cheese,7.684
+Fat,Cottage Cheese,9.718
+Fiber,Cottage Cheese,0
+Sugar,Cottage Cheese,7.684
+Vitamin A,Cottage Cheese,0
+Vitamin C,Cottage Cheese,0
+Calcium,Cottage Cheese,0.1876
+Iron,Cottage Cheese,0.0002
+Protein,Butter,0.07
+Carbohydrates,Butter,0.014
+Fat,Butter,11.34
+Fiber,Butter,0
+Sugar,Butter,0.014
+Vitamin A,Butter,0.0001
+Vitamin C,Butter,0
+Calcium,Butter,0.0034
+Iron,Butter,0
+Protein,Ice Cream,2.31
+Carbohydrates,Ice Cream,15.576
+Fat,Ice Cream,7.26
+Fiber,Ice Cream,0
+Sugar,Ice Cream,13.2
+Vitamin A,Ice Cream,0
+Vitamin C,Ice Cream,0.0007
+Calcium,Ice Cream,0.0858
+Iron,Ice Cream,0.0001
+Protein,Almonds,5.936
+Carbohydrates,Almonds,6.048
+Fat,Almonds,13.972
+Fiber,Almonds,3.5
+Sugar,Almonds,1.232
+Vitamin A,Almonds,0
+Vitamin C,Almonds,0
+Calcium,Almonds,0.0739
+Iron,Almonds,0.001
+Protein,Peanuts,7.224
+Carbohydrates,Peanuts,4.508
+Fat,Peanuts,13.776
+Fiber,Peanuts,2.38
+Sugar,Peanuts,1.316
+Vitamin A,Peanuts,0
+Vitamin C,Peanuts,0
+Calcium,Peanuts,0.0258
+Iron,Peanuts,0.0007
+Protein,Walnuts,4.256
+Carbohydrates,Walnuts,3.836
+Fat,Walnuts,18.256
+Fiber,Walnuts,1.876
+Sugar,Walnuts,0.728
+Vitamin A,Walnuts,0
+Vitamin C,Walnuts,0.0004
+Calcium,Walnuts,0.0274
+Iron,Walnuts,0.0008
+Protein,Cashews,5.096
+Carbohydrates,Cashews,8.456
+Fat,Cashews,12.292
+Fiber,Cashews,0.924
+Sugar,Cashews,1.456
+Vitamin A,Cashews,0
+Vitamin C,Cashews,0.0001
+Calcium,Cashews,0.0104
+Iron,Cashews,0.0019
+Protein,Peanut Butter,8
+Carbohydrates,Peanut Butter,6.4
+Fat,Peanut Butter,16
+Fiber,Peanut Butter,1.92
+Sugar,Peanut Butter,2.56
+Vitamin A,Peanut Butter,0
+Vitamin C,Peanut Butter,0
+Calcium,Peanut Butter,0.0138
+Iron,Peanut Butter,0.0006
+Protein,Sunflower Seeds,5.824
+Carbohydrates,Sunflower Seeds,5.6
+Fat,Sunflower Seeds,14.42
+Fiber,Sunflower Seeds,2.408
+Sugar,Sunflower Seeds,0.728
+Vitamin A,Sunflower Seeds,0
+Vitamin C,Sunflower Seeds,0.0004
+Calcium,Sunflower Seeds,0.0218
+Iron,Sunflower Seeds,0.0014
+Protein,Chia Seeds,4.62
+Carbohydrates,Chia Seeds,11.788
+Fat,Chia Seeds,8.596
+Fiber,Chia Seeds,9.632
+Sugar,Chia Seeds,0
+Vitamin A,Chia Seeds,0
+Vitamin C,Chia Seeds,0.0004
+Calcium,Chia Seeds,0.1767
+Iron,Chia Seeds,0.0022
+Protein,Olive Oil,0
+Carbohydrates,Olive Oil,0
+Fat,Olive Oil,14
+Fiber,Olive Oil,0
+Sugar,Olive Oil,0
+Vitamin A,Olive Oil,0
+Vitamin C,Olive Oil,0
+Calcium,Olive Oil,0
+Iron,Olive Oil,0
+Protein,Vegetable Oil,0
+Carbohydrates,Vegetable Oil,0
+Fat,Vegetable Oil,14
+Fiber,Vegetable Oil,0
+Sugar,Vegetable Oil,0
+Vitamin A,Vegetable Oil,0
+Vitamin C,Vegetable Oil,0
+Calcium,Vegetable Oil,0
+Iron,Vegetable Oil,0
+Protein,Avocado,2
+Carbohydrates,Avocado,9
+Fat,Avocado,15
+Fiber,Avocado,7
+Sugar,Avocado,0.7
+Vitamin A,Avocado,0
+Vitamin C,Avocado,0.01
+Calcium,Avocado,0.012
+Iron,Avocado,0.0006
+Protein,Mayonnaise,0.07
+Carbohydrates,Mayonnaise,0.14
+Fat,Mayonnaise,10.5
+Fiber,Mayonnaise,0
+Sugar,Mayonnaise,0.07
+Vitamin A,Mayonnaise,0
+Vitamin C,Mayonnaise,0
+Calcium,Mayonnaise,0.0014
+Iron,Mayonnaise,0
+Protein,Potato,3.46
+Carbohydrates,Potato,29.41
+Fat,Potato,0.173
+Fiber,Potato,3.806
+Sugar,Potato,1.384
+Vitamin A,Potato,0
+Vitamin C,Potato,0.0341
+Calcium,Potato,0.0173
+Iron,Potato,0.0014
+Protein,Sweet Potato,1.824
+Carbohydrates,Sweet Potato,22.914
+Fat,Sweet Potato,0.114
+Fiber,Sweet Potato,3.42
+Sugar,Sweet Potato,4.788
+Vitamin A,Sweet Potato,0.0008
+Vitamin C,Sweet Potato,0.0027
+Calcium,Sweet Potato,0.0342
+Iron,Sweet Potato,0.0007
+Protein,Corn,4.93
+Carbohydrates,Corn,27.55
+Fat,Corn,2.175
+Fiber,Corn,3.915
+Sugar,Corn,9.135
+Vitamin A,Corn,0
+Vitamin C,Corn,0.0099
+Calcium,Corn,0.0035
+Iron,Corn,0.0007
+Protein,Peas,7.83
+Carbohydrates,Peas,21.025
+Fat,Peas,0.58
+Fiber,Peas,8.265
+Sugar,Peas,8.265
+Vitamin A,Peas,0.0001
+Vitamin C,Peas,0.058
+Calcium,Peas,0.0362
+Iron,Peas,0.0022
+Protein,Apple Juice,0.248
+Carbohydrates,Apple Juice,27.28
+Fat,Apple Juice,0.248
+Fiber,Apple Juice,0.248
+Sugar,Apple Juice,24.8
+Vitamin A,Apple Juice,0
+Vitamin C,Apple Juice,0.0007
+Calcium,Apple Juice,0.0198
+Iron,Apple Juice,0.0002
+Protein,Orange Juice,1.736
+Carbohydrates,Orange Juice,25.792
+Fat,Orange Juice,0.496
+Fiber,Orange Juice,0.496
+Sugar,Orange Juice,20.832
+Vitamin A,Orange Juice,0.0001
+Vitamin C,Orange Juice,0.124
+Calcium,Orange Juice,0.0273
+Iron,Orange Juice,0.0002
+Protein,Coffee (Black),0.24
+Carbohydrates,Coffee (Black),0
+Fat,Coffee (Black),0
+Fiber,Coffee (Black),0
+Sugar,Coffee (Black),0
+Vitamin A,Coffee (Black),0
+Vitamin C,Coffee (Black),0
+Calcium,Coffee (Black),0.012
+Iron,Coffee (Black),0
+Protein,Tea (Unsweetened),0
+Carbohydrates,Tea (Unsweetened),0
+Fat,Tea (Unsweetened),0
+Fiber,Tea (Unsweetened),0
+Sugar,Tea (Unsweetened),0
+Vitamin A,Tea (Unsweetened),0
+Vitamin C,Tea (Unsweetened),0
+Calcium,Tea (Unsweetened),0
+Iron,Tea (Unsweetened),0
+Protein,Soda,0
+Carbohydrates,Soda,37.63
+Fat,Soda,0
+Fiber,Soda,0
+Sugar,Soda,37.63
+Vitamin A,Soda,0
+Vitamin C,Soda,0
+Calcium,Soda,0.0355
+Iron,Soda,0
+Protein,Beer,1.775
+Carbohydrates,Beer,12.78
+Fat,Beer,0
+Fiber,Beer,0
+Sugar,Beer,0
+Vitamin A,Beer,0
+Vitamin C,Beer,0
+Calcium,Beer,0.0284
+Iron,Beer,0.0004
+Protein,Red Wine,0.148
+Carbohydrates,Red Wine,3.848
+Fat,Red Wine,0
+Fiber,Red Wine,0
+Sugar,Red Wine,1.48
+Vitamin A,Red Wine,0
+Vitamin C,Red Wine,0
+Calcium,Red Wine,0.0118
+Iron,Red Wine,0.0003
+Protein,Chocolate Bar,3.01
+Carbohydrates,Chocolate Bar,25.8
+Fat,Chocolate Bar,12.9
+Fiber,Chocolate Bar,1.29
+Sugar,Chocolate Bar,19.35
+Vitamin A,Chocolate Bar,0
+Vitamin C,Chocolate Bar,0
+Calcium,Chocolate Bar,0.0215
+Iron,Chocolate Bar,0.0022
+Protein,Cookies,1.4
+Carbohydrates,Cookies,18.2
+Fat,Cookies,5.6
+Fiber,Cookies,0.56
+Sugar,Cookies,8.4
+Vitamin A,Cookies,0
+Vitamin C,Cookies,0
+Calcium,Cookies,0.0084
+Iron,Cookies,0.0006
+Protein,Cake,3.2
+Carbohydrates,Cake,32
+Fat,Cake,14.4
+Fiber,Cake,0.8
+Sugar,Cake,22.4
+Vitamin A,Cake,0
+Vitamin C,Cake,0
+Calcium,Cake,0.032
+Iron,Cake,0.0012
+Protein,Donut,2.08
+Carbohydrates,Donut,26
+Fat,Donut,13
+Fiber,Donut,0.52
+Sugar,Donut,10.4
+Vitamin A,Donut,0
+Vitamin C,Donut,0
+Calcium,Donut,0.0104
+Iron,Donut,0.0005
+Protein,Pizza,12.84
+Carbohydrates,Pizza,35.31
+Fat,Pizza,10.7
+Fiber,Pizza,2.675
+Sugar,Pizza,3.745
+Vitamin A,Pizza,0
+Vitamin C,Pizza,0.0011
+Calcium,Pizza,0.321
+Iron,Pizza,0.0025
+Protein,Hamburger,13.2
+Carbohydrates,Hamburger,28.6
+Fat,Hamburger,15.4
+Fiber,Hamburger,1.65
+Sugar,Hamburger,5.5
+Vitamin A,Hamburger,0
+Vitamin C,Hamburger,0.0011
+Calcium,Hamburger,0.165
+Iron,Hamburger,0.0027
+Protein,Hot Dog,9.8
+Carbohydrates,Hot Dog,14.7
+Fat,Hot Dog,19.6
+Fiber,Hot Dog,0.49
+Sugar,Hot Dog,1.96
+Vitamin A,Hot Dog,0
+Vitamin C,Hot Dog,0
+Calcium,Hot Dog,0.0392
+Iron,Hot Dog,0.0012
+Protein,Chicken Nuggets,9.6
+Carbohydrates,Chicken Nuggets,12.8
+Fat,Chicken Nuggets,12.8
+Fiber,Chicken Nuggets,0.64
+Sugar,Chicken Nuggets,0.64
+Vitamin A,Chicken Nuggets,0
+Vitamin C,Chicken Nuggets,0.0003
+Calcium,Chicken Nuggets,0.0512
+Iron,Chicken Nuggets,0.001
+Protein,French Fries,3.978
+Carbohydrates,French Fries,40.95
+Fat,French Fries,19.89
+Fiber,French Fries,4.446
+Sugar,French Fries,0.351
+Vitamin A,French Fries,0
+Vitamin C,French Fries,0.0105
+Calcium,French Fries,0.0211
+Iron,French Fries,0.0009

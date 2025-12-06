@@ -1,0 +1,80 @@
+f_name,category,serve_size,calory_per_serve
+Apple,Fruit,1 medium (182g),95
+Banana,Fruit,1 medium (118g),105
+Orange,Fruit,1 medium (131g),62
+Strawberries,Fruit,1 cup (152g),49
+Blueberries,Fruit,1 cup (148g),84
+Grapes,Fruit,1 cup (151g),104
+Watermelon,Fruit,1 cup diced (152g),46
+Mango,Fruit,1 cup diced (165g),99
+Pineapple,Fruit,1 cup chunks (165g),82
+Peach,Fruit,1 medium (150g),58
+Broccoli,Vegetable,1 cup chopped (91g),31
+Carrots,Vegetable,1 medium (61g),25
+Spinach,Vegetable,1 cup raw (30g),7
+Tomato,Vegetable,1 medium (123g),22
+Cucumber,Vegetable,1/2 cup sliced (52g),8
+Bell Pepper,Vegetable,1 medium (119g),25
+Lettuce,Vegetable,1 cup shredded (47g),5
+Cauliflower,Vegetable,1 cup chopped (107g),27
+Zucchini,Vegetable,1 medium (196g),33
+Green Beans,Vegetable,1 cup (100g),31
+White Rice,Grain,1 cup cooked (158g),205
+Brown Rice,Grain,1 cup cooked (195g),218
+Pasta,Grain,1 cup cooked (140g),220
+Whole Wheat Bread,Grain,1 slice (28g),80
+White Bread,Grain,1 slice (25g),67
+Oatmeal,Grain,1 cup cooked (234g),166
+Quinoa,Grain,1 cup cooked (185g),222
+Bagel,Grain,1 medium (89g),245
+Tortilla,Grain,1 medium (49g),146
+Crackers,Grain,5 crackers (16g),80
+Chicken Breast,Protein,3 oz cooked (85g),165
+Ground Beef,Protein,3 oz cooked (85g),212
+Salmon,Protein,3 oz cooked (85g),175
+Tuna,Protein,3 oz cooked (85g),109
+Eggs,Protein,1 large (50g),72
+Turkey Breast,Protein,3 oz cooked (85g),125
+Pork Chop,Protein,3 oz cooked (85g),206
+Shrimp,Protein,3 oz cooked (85g),84
+Tofu,Protein,1/2 cup (126g),94
+Black Beans,Protein,1 cup cooked (172g),227
+Milk (2%),Dairy,1 cup (244g),122
+Cheddar Cheese,Dairy,1 oz (28g),114
+Yogurt (Plain),Dairy,1 cup (245g),154
+Greek Yogurt,Dairy,1 cup (200g),133
+Mozzarella Cheese,Dairy,1 oz (28g),85
+Cottage Cheese,Dairy,1 cup (226g),206
+Butter,Dairy,1 tablespoon (14g),102
+Ice Cream,Dairy,1/2 cup (66g),137
+Almonds,Nuts/Seeds,1 oz (28g),164
+Peanuts,Nuts/Seeds,1 oz (28g),161
+Walnuts,Nuts/Seeds,1 oz (28g),185
+Cashews,Nuts/Seeds,1 oz (28g),157
+Peanut Butter,Nuts/Seeds,2 tablespoons (32g),188
+Sunflower Seeds,Nuts/Seeds,1 oz (28g),165
+Chia Seeds,Nuts/Seeds,1 oz (28g),138
+Olive Oil,Fats/Oils,1 tablespoon (14g),119
+Vegetable Oil,Fats/Oils,1 tablespoon (14g),120
+Avocado,Fats/Oils,1/2 medium (100g),160
+Mayonnaise,Fats/Oils,1 tablespoon (14g),94
+Potato,Starchy Vegetable,1 medium (173g),164
+Sweet Potato,Starchy Vegetable,1 medium (114g),103
+Corn,Starchy Vegetable,1 cup kernels (145g),125
+Peas,Starchy Vegetable,1 cup (145g),117
+Apple Juice,Beverage,1 cup (248g),114
+Orange Juice,Beverage,1 cup (248g),112
+Coffee (Black),Beverage,1 cup (240g),2
+Tea (Unsweetened),Beverage,1 cup (240g),2
+Soda,Beverage,12 oz can (355g),140
+Beer,Beverage,12 oz (355g),153
+Red Wine,Beverage,5 oz (148g),125
+Chocolate Bar,Sweets,1.5 oz (43g),235
+Cookies,Sweets,2 medium (28g),140
+Cake,Sweets,1 slice (80g),252
+Donut,Sweets,1 medium (52g),195
+Pizza,Mixed Dish,1 slice (107g),285
+Hamburger,Mixed Dish,1 sandwich (110g),295
+Hot Dog,Mixed Dish,1 sandwich (98g),242
+Chicken Nuggets,Mixed Dish,4 pieces (64g),180
+French Fries,Mixed Dish,1 medium serving (117g),365

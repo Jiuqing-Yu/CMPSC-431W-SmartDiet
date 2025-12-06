@@ -1,0 +1,80 @@
+f_name,category,serve_size,serve_size_unit,calory_per_serve
+Apple,Fruit,1,medium,95
+Banana,Fruit,1,medium,105
+Orange,Fruit,1,medium,62
+Strawberries,Fruit,1,cup,49
+Blueberries,Fruit,1,cup,84
+Grapes,Fruit,1,cup,104
+Watermelon,Fruit,1,cup diced,46
+Mango,Fruit,1,cup diced,99
+Pineapple,Fruit,1,cup chunks,82
+Peach,Fruit,1,medium,58
+Broccoli,Vegetable,1,cup chopped,31
+Carrots,Vegetable,1,medium,25
+Spinach,Vegetable,1,cup raw,7
+Tomato,Vegetable,1,medium,22
+Cucumber,Vegetable,0.5,cup sliced,8
+Bell Pepper,Vegetable,1,medium,25
+Lettuce,Vegetable,1,cup shredded,5
+Cauliflower,Vegetable,1,cup chopped,27
+Zucchini,Vegetable,1,medium,33
+Green Beans,Vegetable,1,cup,31
+White Rice,Grain,1,cup cooked,205
+Brown Rice,Grain,1,cup cooked,218
+Pasta,Grain,1,cup cooked,220
+Whole Wheat Bread,Grain,1,slice,80
+White Bread,Grain,1,slice,67
+Oatmeal,Grain,1,cup cooked,166
+Quinoa,Grain,1,cup cooked,222
+Bagel,Grain,1,medium,245
+Tortilla,Grain,1,medium,146
+Crackers,Grain,5,,80
+Chicken Breast,Protein,3,oz cooked,165
+Ground Beef,Protein,3,oz cooked,212
+Salmon,Protein,3,oz cooked,175
+Tuna,Protein,3,oz cooked,109
+Eggs,Protein,1,large,72
+Turkey Breast,Protein,3,oz cooked,125
+Pork Chop,Protein,3,oz cooked,206
+Shrimp,Protein,3,oz cooked,84
+Tofu,Protein,0.5,cup,94
+Black Beans,Protein,1,cup cooked,227
+Milk (2%),Dairy,1,cup,122
+Cheddar Cheese,Dairy,1,oz,114
+Yogurt (Plain),Dairy,1,cup,154
+Greek Yogurt,Dairy,1,cup,133
+Mozzarella Cheese,Dairy,1,oz,85
+Cottage Cheese,Dairy,1,cup,206
+Butter,Dairy,1,tablespoon,102
+Ice Cream,Dairy,0.5,cup,137
+Almonds,Nuts/Seeds,1,oz,164
+Peanuts,Nuts/Seeds,1,oz,161
+Walnuts,Nuts/Seeds,1,oz,185
+Cashews,Nuts/Seeds,1,oz,157
+Peanut Butter,Nuts/Seeds,2,tablespoon,188
+Sunflower Seeds,Nuts/Seeds,1,oz,165
+Chia Seeds,Nuts/Seeds,1,oz,138
+Olive Oil,Fats/Oils,1,tablespoon,119
+Vegetable Oil,Fats/Oils,1,tablespoon,120
+Avocado,Fats/Oils,0.5,medium,160
+Mayonnaise,Fats/Oils,1,tablespoon,94
+Potato,Starchy Vegetable,1,medium,164
+Sweet Potato,Starchy Vegetable,1,medium,103
+Corn,Starchy Vegetable,1,cup kernels,125
+Peas,Starchy Vegetable,1,cup,117
+Apple Juice,Beverage,1,cup,114
+Orange Juice,Beverage,1,cup,112
+Coffee (Black),Beverage,1,cup,2
+Tea (Unsweetened),Beverage,1,cup,2
+Soda,Beverage,12,oz,140
+Beer,Beverage,12,oz,153
+Red Wine,Beverage,5,oz,125
+Chocolate Bar,Sweets,1.5,oz,235
+Cookies,Sweets,2,medium,140
+Cake,Sweets,1,slice,252
+Donut,Sweets,1,medium,195
+Pizza,Mixed Dish,1,slice,285
+Hamburger,Mixed Dish,1,sandwich,295
+Hot Dog,Mixed Dish,1,sandwich,242
+Chicken Nuggets,Mixed Dish,4,pieces,180
+French Fries,Mixed Dish,1,medium,365
